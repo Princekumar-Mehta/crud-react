@@ -1,0 +1,46 @@
+{
+    "users": [
+      {
+        "id": 0,
+        "name": "Raj",
+        "phoneNumber": "+1 220-716-7170",
+        "gender": "male",
+        "country": "India",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "hobbies": [
+          "cricket",
+          "reading"
+        ],
+        "aboutMe": "Subtly charming problem solver. Explorer. Amateur pop culture trailblazer. Total entrepreneur. Analyst. Coffee buff."
+      },
+      {
+        "id": 1,
+        "name": "Alexa",
+        "gender": "female",
+        "hobbies": [
+          "chess"
+        ],
+        "country": "USA",
+        "state": "Georgia",
+        "city": "Atlanta",
+        "phoneNumber": "+1 202-918-2132",
+        "aboutMe": "Writer. Zombie lover. Friendly internet aficionado. Bacon evangelist. Unapologetic tv junkie. Coffee specialist."
+      },
+      {
+        "id": 3,
+        "name": "Rajesh",
+        "phoneNumber": "1232231",
+        "gender": "male",
+        "country": "India",
+        "state": "California",
+        "city": "Ahmedabad",
+        "aboutMe": "ecwedwsdxwdwedfwe",
+        "hobbies": [
+          "cricket",
+          "reading",
+          "chess"
+        ]
+      }
+    ]
+  }

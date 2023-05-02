@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sdsdsd",
+      "phoneNumber": "+1 202-918-2132",
+      "gender": "female",
+      "country": "USA",
+      "state": "Georgia",
+      "city": "Atlanta",
+      "aboutMe": "Writer. Zombie lover. Friendly internet aficionado. Bacon evangelist. Unapologetic tv junkie. Coffee specialist.",
+      "hobbies": [
+        "cricket",
+        "chess",
+        "writing"
+      ],
+      "undefined": "cricket"
+    },
+    {
+      "name": "Prince 123",
+      "phoneNumber": "+1 220-716-7170",
+      "gender": "male",
+      "country": "USA",
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "hobbies": [
+        "cricket",
+        "reading",
+        "writing"
+      ],
+      "aboutMe": "cerfrfefgr4gdcdg45g",
+      "id": 5
+    },
+    {
+      "name": "Rajesh",
+      "phoneNumber": "1122334455",
+      "gender": "male",
+      "country": "India",
+      "state": "Georgia",
+      "city": "Sacramento",
+      "hobbies": [
+        "cricket",
+        "reading",
+        "writing"
+      ],
+      "aboutMe": "jhyjkhyjkyujkyujyujy",
+      "id": 4
+    },
+    {
+      "name": "rtyty",
+      "phoneNumber": "1122334455",
+      "gender": "male",
+      "country": "USA",
+      "state": "Gujarat",
+      "city": "Atlanta",
+      "hobbies": [
+        "cricket",
+        "reading",
+        "writing",
+        "chess"
+      ],
+      "aboutMe": "iufgtxcvcyubgjbuj",
+      "id": 6
+    },
+    {
+      "name": "Rajesh",
+      "phoneNumber": "+1 220-716-7170",
+      "gender": "male",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Sacramento",
+      "hobbies": [
+        "cricket",
+        "reading"
+      ],
+      "aboutMe": "d2d23ed23e32",
+      "id": 7
+    }
+  ]
+}
